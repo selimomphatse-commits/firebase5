@@ -1,0 +1,9 @@
+.App {
+  font-family: Arial, sans-serif;
+}
+
+/* Basic styling to see if CSS is loading */
+body {
+  margin: 0;
+  padding: 0;
+}
